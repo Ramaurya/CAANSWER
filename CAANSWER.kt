@@ -45,7 +45,7 @@ fun registration() {
 
 
         Image(
-            painter = painterResource(id = R.drawable.nature),
+            painter = painterResource(id = R.drawable.myphoto),
             contentDescription = "Workshop Nature Image",
             contentScale = ContentScale.Crop,
             modifier = Modifier
